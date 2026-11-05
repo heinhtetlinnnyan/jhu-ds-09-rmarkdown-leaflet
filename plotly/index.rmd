@@ -17,7 +17,7 @@ library(plotly)
 - Question: do heavier cars use more fuel?
 - Each point is one car. Hover over a point to see which car it is.
 
-## Weight vs. miles per gallon
+## Weight vs. miles per gallon 
 
 ```{r plot}
 cars <- mtcars
